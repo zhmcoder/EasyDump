@@ -1,0 +1,2 @@
+# EasyDump
+EasyDump是一个简单的易用的App, 使用它可以不用root手机就可以在手机上对apk进行破解获取dex文件，并通过局域网http把dex导出到电脑上。
